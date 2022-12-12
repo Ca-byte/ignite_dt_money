@@ -10,7 +10,7 @@ export function NewTransactionModal(){
 			<Content>
 				<Dialog.Title>New Transaction</Dialog.Title>
 				<CloseButton>
-					<X />
+					<X size={24}/>
 				</CloseButton>
 				<form action=''>
 					<input type="text" placeholder="Description" required />

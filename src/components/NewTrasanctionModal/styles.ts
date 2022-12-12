@@ -23,38 +23,38 @@ left: 50%;
 transform: translate(-50%, -50%);
 
 form { 
-    margin-top: 2rem;
+  margin-top: 2rem;
+  
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
     
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
-    
-    input{
-      border-radius: 6px;
-      border: 0;
-      background-color: ${props => props.theme["gray-900"]};
-      color: ${props => props.theme["gray-300"]};
-      padding: 1rem;
-
-      &::placeholder {
-          color: ${props => props.theme["gray-500"]};
-      }
-    }
-
-    button {
-    height: 58px;
-    border: 0;
-    background-color: ${props => props.theme["green-500"]};
-    color: ${props => props.theme.white};
-    font-weight: bold;
-    padding: 0 1.25rem;
+  input{
     border-radius: 6px;
-    margin-top: 1.5rem;
-    cursor: pointer;
+    border: 0;
+    background-color: ${props => props.theme["gray-900"]};
+    color: ${props => props.theme["gray-300"]};
+    padding: 1rem;
 
-    &::hover {
-        background-color:${props => props.theme["green-700"]};
-        transition: backgroung-color 0.2s;
+    &::placeholder {
+        color: ${props => props.theme["gray-500"]};
+    }
+  }
+
+  button {
+  height: 58px;
+  border: 0;
+  background-color: ${props => props.theme["green-500"]};
+  color: ${props => props.theme.white};
+  font-weight: bold;
+  padding: 0 1.25rem;
+  border-radius: 6px;
+  margin-top: 1.5rem;
+  cursor: pointer;
+
+    &:hover {
+      background-color:${props => props.theme["green-700"]};
+      transition: backgroung-color 0.2s;
     }
 
   }

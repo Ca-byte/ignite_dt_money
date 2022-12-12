@@ -10,7 +10,7 @@ export function Header(){
 				<img src={logoImg} alt=""/>
 				<Dialog.Root>
           <Dialog.Trigger asChild>
-					  <NewTransactionBtn>New Transaction</NewTransactionBtn>
+					<NewTransactionBtn>New Transaction</NewTransactionBtn>
           </Dialog.Trigger>
           <NewTransactionModal />
 				</Dialog.Root>
