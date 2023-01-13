@@ -4,7 +4,7 @@
       "id": 1,
       "description": "Software development",
       "type": "income",
-      "category": "Sales",
+      "category": "sales",
       "price": 14000,
       "createdAt": "2022-12-20T21:05:01.981Z"
     },
