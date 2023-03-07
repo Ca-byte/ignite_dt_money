@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 <br>
@@ -17,7 +17,7 @@
 </p>
 
 ---
-## 🚀 Technologies ##
+## Technologies ##
 
 This project was developed using the following technologies:
 
@@ -67,7 +67,7 @@ $ npm run dev
 
 ---
 
-## 💻 Project
+## Project ##
 
 The project idea is a financial control app where we add and track inputs, outputs and the total. We can register new transactions, search and filter them. We use accessibility and form libraries to make even more beautiful our project.
 
