@@ -4,9 +4,11 @@
 </p>
 
 <p align="center">
-  <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#clipboard-requirements">Requirements</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#keyboard-how-to-run-the-project">How to run the project </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#art-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 
@@ -17,7 +19,17 @@
 </p>
 
 ---
-## Technologies ##
+
+## :memo: Project 
+
+The project idea is a financial control app where we add and track inputs, outputs and the total. We can register new transactions, search and filter them. We use accessibility and form libraries to make even more beautiful our project.
+
+This is a project developed during React bootcamp **[Ignite](https://github.com/Rocketseat)**, run by **[@Rocketseat](https://github.com/Rocketseat)**.
+
+<br>
+
+---
+## :rocket: Technologies ##
 
 This project was developed using the following technologies:
 
@@ -35,14 +47,14 @@ This project was developed using the following technologies:
 
 ---
 
-## 📋  Requirements ##
+## :clipboard: requirements
 
-Before starting you need :checkered_flag:, have installed the [Git](https://git-scm.com) e [Node](https://nodejs.org/en/).
+Before starting you need :checkered_flag:, have installed the [Git](https://git-scm.com) and [Node](https://nodejs.org/en/).
 
 <br>
 
 ---
-## ⌨ How to run the project ##
+## :keyboard: How to run the project ##
 
 ```bash
 # Clone this project
@@ -67,17 +79,8 @@ $ npm run dev
 
 ---
 
-## Project ##
 
-The project idea is a financial control app where we add and track inputs, outputs and the total. We can register new transactions, search and filter them. We use accessibility and form libraries to make even more beautiful our project.
-
-This is a project developed during React bootcamp **[Ignite](https://github.com/Rocketseat)**, run by **[@Rocketseat](https://github.com/Rocketseat)**.
-
-<br>
-
----
-
-## 🔖 Layout ##
+## :art: Layout ##
 
 - [Ignite DT Money](https://www.figma.com/file/HlGKNxhQi3Tt8QfE3bKrhy/DT-Money-(Community)?t=LviCMoQQNUWnr3TK-0)
 
